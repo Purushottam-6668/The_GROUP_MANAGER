@@ -80,7 +80,7 @@ Find on Telegram - [THE LIBRARIAN'S](https://t.me/LibrarianGroupManagerBot)
 
 <p align="center">
 
-   <a href = "https://heroku.com/deploy?template=https://heroku.com/deploy?template=https://github.com/PURHSHOTTAM/The_GROUP_MANAGER/tree/master/"><img src="https://telegra.ph/file/eb784f6f13ddc0efd2508.png" alt="Press to Takeoff" width="220px"></a>
+   <a href = "https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.messenger%2F&template=https%3A%2F%2Fgithub.com%2FPURHSHOTTAM%2FThe_GROUP_MANAGER%2Ftree%2Fmaster"><img src="https://telegra.ph/file/eb784f6f13ddc0efd2508.png" alt="Press to Takeoff" width="220px"></a>
 
 </p>
 
